@@ -24,7 +24,7 @@ I mention <a href="https://github.com/patriciomacadden/hobbit/">hobbit</a> above
 
 #### Objective-C
 
-I am in the process of learning Objective-C once again, after my 3+ month hiatus at Makers. Previously I had created a product demo for a startup idea my brother had requested, and played around with the SoundCloud SDK and <a href="https://github.com/ErikAGriffin/Animation-Testing>animations</a>. I do not have much to show for native app development yet, but this is set to change in the near future.
+I am once again in the process of learning Objective-C, after my 3+ month hiatus at Makers. Previously I had created a product demo for a startup idea my brother had requested, and played around with the SoundCloud SDK and <a href="https://github.com/ErikAGriffin/Animation-Testing">animations</a>. I do not have much to show for native app development yet, but this is set to change in the near future.
 
 
 ## Education
